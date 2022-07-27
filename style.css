@@ -29,6 +29,11 @@ main {
     color: white;
 }
 
+header {
+    background-color: #FFF9F4;
+    padding-bottom: 10px;
+}
+
 /* --------------------
 nav-bar styles
 -----------------------*/
